@@ -1,0 +1,90 @@
+﻿body {
+    background-color: #FFF8E3;
+    font-family: 'Arial', sans-serif;
+    color: black;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 80px;
+    background-color: white;
+}
+
+.content {
+    display: flex;
+}
+
+.left-column,
+.right-column {
+    width: 60%;
+}
+
+h2 {
+    font-family: "Georgia", serif;
+    color: black;
+}
+
+ul {
+    list-style-type: circle;
+    padding: 0;
+    font-size: 22px;
+    line-height: normal;
+    word-spacing: normal;
+    text-align: justify;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.about-me h1 {
+    font-family: "Georgia", serif;
+    font-size: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: normal;
+    color: black;
+    font-size: 50px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    font-family: "Georgia", serif;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+}
+
+.about-me p {
+    font-family: "Bookman Old Style", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    text-align: justify;
+}
+
+.about-me img {
+    max-width: 100%;
+    margin-right: 50px;
+}
